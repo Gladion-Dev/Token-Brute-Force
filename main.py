@@ -1,7 +1,3 @@
-# Credit : Dev by Naoy
-# No Skid
-# https://github.com/NAOYY
-# https://discord.gg/QB628am
 
 import discord
 import string
